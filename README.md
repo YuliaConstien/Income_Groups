@@ -13,7 +13,7 @@ prepare the data such that they can be used for further regression and correlati
 The repository includes:
 
 
-Dataset: the annotated data that was made available by the cpurse examinars. But it needed furthur split into training, valdiation and test sets. 
+Dataset.train: the annotated data that was made available by the cpurse examinars. But it needed furthur split into training, valdiation and test sets. 
 
 Project_income: a Google Colaboratory file which includes the whole project and needs a notebook enviroment to be run.
 
