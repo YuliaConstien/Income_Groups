@@ -2,8 +2,6 @@
 
 This repository is for the final semester project in the Intelligent Data Analysis and Machine Learning 1 course, in the master of Cognitive Systems programme of Potsdam University.
 
-The task is to predict the income group of the remaining 25.000 interviewees and to
-
 ## Problem setting, Dataset and Task 
 
 A polling institute wants to be able to estimate an individual’s income from their personal data. To this aim, 30.000 individuals were interviewed concerning such features as: age, employment type, level of education ...etc. For some of the individuals, not all features are
